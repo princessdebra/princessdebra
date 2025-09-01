@@ -18,9 +18,9 @@
 <!-- Section for your social/professional links with nice badges -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-  <a href="https://medium.com/@your-medium-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@your-medium-handle" height="30" width="40" /></a>
-</p>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="https://www.linkedin.com/in/princess-debra-4bb2612b9/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+  
+
 
 <!-- A section for your tech stack using badges. This is very visual and appealing to recruiters. -->
 <h3 align="left">Languages and Tools:</h3>
