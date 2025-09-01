@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **open-source projects, especially in React, Python, and Data Visualization.**
 
-- 💬 Ask me about **React, Next.js, Django, Python, AWS, and how to bridge the gap between software development and data insights.**
+- 💬 Ask me about **React, Next.js, Django, Python, AWS and how to bridge the gap between software development and data insights.**
 
-- 📫 How to reach me: **debzzitie@gmail.com**
+- 📫 How to reach me: **debzziiie@gmail.com**
 
 - ⚡ Fun fact: **I believe clean code and clear data visualizations are superpowers!**
 
