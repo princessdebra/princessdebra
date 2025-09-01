@@ -18,7 +18,7 @@
 <!-- Section for your social/professional links with nice badges -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="https://www.linkedin.com/in/princess-debra-4bb2612b9/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/princess-debra-4bb2612b9/" target="https://www.linkedin.com/in/princess-debra-4bb2612b9/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/princess-debra-4bb2612b9/)" height="30" width="40" /></a>
   
 
 
