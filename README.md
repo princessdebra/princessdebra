@@ -3,17 +3,17 @@
 <h3 align="center">A Passionate Full-Stack Developer & Data Analyst from Kenya</h3>
 
 <!-- A brief introduction about yourself -->
-- 🔭 I’m currently working on **scalable full-stack applications and data automation scripts.**
+-  I’m currently working on **scalable full-stack applications and data automation scripts.**
 
-- 🌱 I’m currently deepening my knowledge in **Cloud Architecture (AWS) and Data Engineering.**
+-  I’m currently deepening my knowledge in **Cloud Architecture (AWS) and Data Engineering.**
 
-- 👯 I’m looking to collaborate on **open-source projects, especially in React, Python, and Data Visualization.**
+-  I’m looking to collaborate on **open-source projects, especially in React, Python, and Data Visualization.**
 
-- 💬 Ask me about **React, Next.js, Django, Python, AWS and how to bridge the gap between software development and data insights.**
+-  Ask me about **React, Next.js, Django, Python, AWS and how to bridge the gap between software development and data insights.**
 
-- 📫 How to reach me: **debzziiie@gmail.com**
+-  How to reach me: **debzziiie@gmail.com**
 
-- ⚡ Fun fact: **I believe clean code and clear data visualizations are superpowers!**
+-  Fun fact: **I believe clean code and clear data visualizations are superpowers!**
 
 <!-- Section for your social/professional links with nice badges -->
 <h3 align="left">Connect with me:</h3>
